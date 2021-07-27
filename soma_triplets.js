@@ -78,9 +78,6 @@ function comparaTriplets( a, b ) {
 function main() {
 
 
-    // Gabarito = [ 1, 1 ]
-    //
-
     var tripletA = [ 6, 9, 7 ];
     var tripletB = [ 4, 9, 10 ];
     
